@@ -12,10 +12,15 @@
 📫 Feel free to reach out to me via email at [amansabu99@gmail.com].
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/aman-sabu-9b775b279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px;width:40px;" /></a>
-
-<a href="https://instagram.com/aman.kappoore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="auztn_" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-sabu-9b775b279/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-sabu-9b775b279/" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/aman.kappoore" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="auztn_" height="30" width="40" />
+  </a>
 </p>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankappooresabu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
